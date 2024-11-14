@@ -1,30 +1,88 @@
-# Front End Technical Support Task
+Interactive Boxes - Front End Technical Support Task
+====================================================
 
-This repository contains the code for the task assigned for the Front End Technical Support position. The task was to design an interactive webpage with three expandable boxes, allowing users to choose options for color and size upon clicking. The objective was to demonstrate my skills in basic Front End development using HTML, CSS, and JavaScript without the use of external libraries or frameworks.
+This project is a Front End Technical Support task designed to showcase basic HTML, CSS, and JavaScript skills by implementing interactive, dynamic elements. It was completed as part of the application process for a Technical Frontend Support position.
 
-## Task Overview
+Project Overview
+----------------
 
-The task involved:
+This project consists of three interactive boxes that expand upon user interaction. Each box offers options to change colors and sizes, closely replicating the design and functionality shown in the provided video and Figma design. The goal was to create a component-based, responsive design using HTML, CSS, and JavaScript from scratch.
 
-- Designing three interactive boxes: one at the top, one in the middle, and one at the bottom.
-- Each box should dynamically expand upon clicking and display options for colors and sizes, similar to the functionality shown in the provided example video.
-- The design should closely match the Figma design shared with me.
-- The webpage was built using only vanilla HTML, CSS, and JavaScript.
+Live Demo
+---------
 
-## Requirements
+View the live project here: [GitHub Pages Link](https://your-github-pages-link.com)\
+GitHub Repository: [GitHub Repo Link](https://github.com/your-repo-link)
 
-- **HTML**: Used basic HTML tags to structure the webpage and followed best practices.
-- **CSS**: Wrote custom CSS to style the webpage. Ensured that the design is responsive and clean.
-- **JavaScript**: Implemented interactive features using vanilla JavaScript. No external libraries or frameworks were used.
+Screenshots
+-----------
 
-## Features
+<!-- Include screenshots here to demonstrate the project's appearance and functionality. -->
 
-- Three interactive boxes that expand upon click.
-- Each box displays options for color and size upon interaction.
-- Responsive design to ensure compatibility across different screen sizes.
+Features
+--------
 
-## How to Run the Project
+-   **Interactive Boxes**: Each box expands on click and reveals options for color and size adjustments.
+-   **Vanilla JavaScript**: No libraries or frameworks were used. This project is built purely with HTML, CSS, and JavaScript.
+-   **Responsive Design**: The layout is responsive and adjusts well across different screen sizes.
+-   **Code Structure**: Clean and organized code with attention to readability and best practices.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Proveway.git
+How to Use
+----------
+
+1.  **Click** on any of the boxes to expand them.
+2.  **Select Options**: After expanding, you'll find options to change the color and size of each box.
+3.  **Reset**: To collapse a box, simply click on it again.
+
+Project Structure
+-----------------
+
+bash
+
+Copy code
+
+`/project-folder
+├── index.html        # Main HTML structure
+├── style.css         # Styling for the project
+├── script.js         # JavaScript for interactivity
+└── /screenshots      # Screenshots folder for README documentation`
+
+Technologies Used
+-----------------
+
+-   **HTML5**: Basic structure and layout.
+-   **CSS3**: Styling and responsive design.
+-   **JavaScript**: Used for interactive functionality.
+
+Getting Started
+---------------
+
+1.  Clone the repository:
+
+    bash
+
+    Copy code
+
+    `git clone https://github.com/your-repo-link.git`
+
+2.  Open the `index.html` file in your browser to view the project locally.
+
+Notes
+-----
+
+This project was completed as per the guidelines provided, focusing on demonstrating:
+
+-   Proficiency with basic Front End technologies (HTML, CSS, JavaScript).
+-   Effective code structure and attention to detail.
+-   Communication and problem-solving abilities.
+
+Submission Links
+----------------
+
+-   **Hosted Link**: [GitHub Pages Link](https://your-github-pages-link.com)
+-   **Repository Link**: [GitHub Repo Link](https://github.com/your-repo-link)
+
+License
+-------
+
+This project is completed as part of a technical evaluation and is not intended for commercial use.
