@@ -11,13 +11,15 @@ This project consists of three interactive boxes that expand upon user interacti
 Live Demo
 ---------
 
-View the live project here: [GitHub Pages Link](https://your-github-pages-link.com)\
-GitHub Repository: [GitHub Repo Link](https://github.com/your-repo-link)
+View the live project here: [GitHub Pages Link](https://nikunjsharma11.github.io/Proveway/)\
+GitHub Repository: [GitHub Repo Link](https://github.com/NIKUNJSHARMA11/Proveway)
 
 Screenshots
 -----------
 
-<!-- Include screenshots here to demonstrate the project's appearance and functionality. -->
+<!-- Incl![Screenshot 2024-11-15 042609](https://github.com/user-attachments/assets/6814b609-df4d-48ad-bb4c-cf557c46b898)
+ude screenshots ![Screenshot 2024-11-15 042622](https://github.com/user-attachments/assets/4a80a9e6-a2c9-492f-8bb5-a82ea4a0d83e)
+here to demonstrate the project's appearance and functionality. -->
 
 Features
 --------
@@ -63,7 +65,7 @@ Getting Started
 
     Copy code
 
-    `git clone https://github.com/your-repo-link.git`
+    `git clone https://github.com/NIKUNJSHARMA11/Proveway.git`
 
 2.  Open the `index.html` file in your browser to view the project locally.
 
@@ -76,11 +78,6 @@ This project was completed as per the guidelines provided, focusing on demonstra
 -   Effective code structure and attention to detail.
 -   Communication and problem-solving abilities.
 
-Submission Links
-----------------
-
--   **Hosted Link**: [GitHub Pages Link](https://your-github-pages-link.com)
--   **Repository Link**: [GitHub Repo Link](https://github.com/your-repo-link)
 
 License
 -------
