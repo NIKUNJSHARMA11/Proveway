@@ -20,6 +20,14 @@ Screenshots
 <!-- Incl![Screenshot 2024-11-15 042609](https://github.com/user-attachments/assets/6814b609-df4d-48ad-bb4c-cf557c46b898)
 ude screenshots ![Screenshot 2024-11-15 042622](https://github.com/user-attachments/assets/4a80a9e6-a2c9-492f-8bb5-a82ea4a0d83e)
 here to demonstrate the project's appearance and functionality. -->
+# My Project
+
+This is a description of my project.
+
+![Screenshot](https://user-images.githubusercontent.com/your-username/image-id.png)
+
+More details about the project...
+
 
 Features
 --------
