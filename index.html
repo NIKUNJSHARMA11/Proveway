@@ -4,22 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bundle & Save</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="button.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <div id="bundle-container">
         <h1 >Bundle & Save</h1>
 
-        <!-- Bundle Options Table -->
         <div class="bundle-option">
            
                 <div class="option-header">
                     <input type="radio" name="bundle" id="option1" onclick="selectOption('option1', 195)">
                     <label for="option1">
                    
-                    <span>1 Pair - DKK 195.00</span>
+                    <span class="span-title">1 Pair - DKK 195.00</span>
                   
                 </div>
             </label>
@@ -27,6 +26,7 @@
                 <div class="size-color">
                     <label>#1</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -41,6 +41,7 @@
                 <div class="size-color">
                     <label>#2</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -65,16 +66,17 @@
             <div class="option-header upper-header">
                     <input type="radio" name="bundle" id="option2" onclick="selectOption('option2', 345)">
             <label for="option2">
-                    <span>2 Pairs - DKK 345.00</span>
+                    <span class="span-title">2 Pairs - DKK 345.00</span>
                     
                       
-                    <!-- <span class="discount">40% OFF</span> -->
+                   
                 </div>
             </label>
             <div id="option2-details" class="option-details">
                 <div class="size-color">
                     <label>#1</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -89,6 +91,7 @@
                 <div class="size-color">
                     <label>#2</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -115,14 +118,15 @@
                 <div class="option-header">
                     <input type="radio" name="bundle" id="option3" onclick="selectOption('option3', 528)">
                     <label for="option3">
-                    <span>3 Pairs - DKK 528.00</span>
-                    <!-- <span class="discount">60% OFF</span> -->
+                    <span class="span-title">3 Pairs - DKK 528.00</span>
+                   
                 </div>
             </label>
             <div id="option3-details" class="option-details">
                 <div class="size-color">
                     <label>#1</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -137,6 +141,7 @@
                 <div class="size-color">
                     <label>#2</label>
                     <select>
+                        <option>Size</option>
                         <option>S</option>
                         <option>M</option>
                         <option>L</option>
@@ -154,15 +159,20 @@
           
         </div>
 
-        <!-- Shipping and Total Section -->
+    
         <div id="summary-section">
             <p class="shipping-text">Free 2-Day Shipping</p>
-            <p id="total-price">Total: DKK 195.00</p>
+            <p id="total-price">Total:</p>
         </div>
 
-        <!-- Add to Cart Button -->
-        <!-- <button class="btn-cart"><span>+ Add to Cart</span></button> -->
-        <button class="button btn-cart"><span><span>Add to My Bag</span></span></button>
+
+        <button class="cart-button">
+            <span class="add-to-cart">Add to cart</span>
+            <span class="added">Added</span>
+            <i class="fas fa-shopping-cart"></i>
+            <i class="fas fa-box"></i>
+        </button>
+       
     </div>
 
     <script src="script.js"></script>
