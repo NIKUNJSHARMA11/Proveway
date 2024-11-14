@@ -19,8 +19,6 @@ Screenshots
 
 # My Project
 
-This is a description of my project.
-
 (![Screenshot 2024-11-15 042609](https://github.com/user-attachments/assets/2ffcac33-9104-4ae5-a8ea-26bfaefc14fe)
 )
 ![Screenshot 2024-11-15 042622](https://github.com/user-attachments/assets/cba0a4a4-c740-4b4e-b299-7d04c720afc6)
