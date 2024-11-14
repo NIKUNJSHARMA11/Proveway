@@ -21,7 +21,8 @@ Screenshots
 
 This is a description of my project.
 
-![Screenshot](https://user-images.githubusercontent.com/your-username/image-id.png)
+(![Screenshot 2024-11-15 042609](https://github.com/user-attachments/assets/2ffcac33-9104-4ae5-a8ea-26bfaefc14fe)
+)
 
 More details about the project...
 
